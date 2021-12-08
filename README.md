@@ -4,11 +4,15 @@ Unofficial Chain Runners logo kit including .png, .svg. .md. Created by [1980k](
 
 ---
 
-![Mega City Chain](https://github.com/davidbanthony/mega-city-assets/blob/main/Logo-Chain-Runners-Preview.png)
+![Mega City Chain](https://github.com/davidbanthony/mega-city-assets/blob/main/Preview-Logo-Chain-Runners.png)
 
 ---
 
-![Mega City Chain](https://github.com/davidbanthony/mega-city-assets/blob/main/Sun-Chain-Runners-Preview.png)
+![Mega City Chain](https://github.com/davidbanthony/mega-city-assets/blob/main/Preview-Sun-Chain-Runners.png)
+
+---
+
+![Mega City Chain](https://github.com/davidbanthony/mega-city-assets/blob/main/Preview-PFP-Foundation-Aesprite.png)
 
 ---
 
