@@ -16,6 +16,6 @@ Unofficial Chain Runners logo kit including .png, .svg. .md. Created by [1980k](
 
 ---
 
-Follow [Mega City Chain](https://opensea.io/collection/mega-city-chain) | [Twitter](https://twitter.com/megacitychain) & Follow [Mega City Art](https://opensea.io/collection/mega-city-art) | [Twitter](https://twitter.com/megacityart)
+Mega City Chain [Website](http://megacitychain.xyz) | [Twitter](https://twitter.com/megacitychain)
 
 ---
